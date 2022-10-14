@@ -1,7 +1,7 @@
 # App Project
 
 ## Author: 
- [Gia Ciudino](https://github.com/Erak93))
+ [Gia Ciudino](https://github.com/Erak93)
 
 
 ## App Features:

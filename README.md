@@ -12,3 +12,7 @@ Gia Ciudino
 * Reporting.
 
 ## License
+
+[Link to License](https://github.com/Erak93/License-excercise/blob/main/License.txt)
+
+

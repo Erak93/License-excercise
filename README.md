@@ -1,7 +1,8 @@
 # App Project
 
 ## Author: 
-Gia Ciudino
+ [Gia Ciudino](https://github.com/Erak93/License-excercise/blob/main/License.txt)
+
 
 ## App Features:
 
